@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "nova",
+  "base_artist": "YU",
+  "createdAt": "2025-12-17T15:08:20.553251Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chevy Nova",
+      "artist": "Joe Peters",
+      "has_synced": true,
+      "path": "select/01_Chevy_Nova_Joe_Peters.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fashion Nova Men (Lil Gotit feat. Foolio)",
+      "artist": "Lil Yachty feat. Lil Keed, Zaytoven, Lil Gotit & Foolio",
+      "has_synced": false,
+      "path": "select/02_Fashion_Nova_Men_(Lil_Gotit_feat._Foolio)_Lil_Yachty_feat._Lil_Keed,_Zaytoven,_Lil_Gotit_&_Foolio.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fashion Nova Men (feat. Foolio)",
+      "artist": "Lil Gotit & ZAYTOVEN",
+      "has_synced": false,
+      "path": "select/03_Fashion_Nova_Men_(feat._Foolio)_Lil_Gotit_&_ZAYTOVEN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Casa Nova",
+      "artist": "Mia Doi Todd",
+      "has_synced": false,
+      "path": "select/04_Casa_Nova_Mia_Doi_Todd.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bossa Nova Baby",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/05_Bossa_Nova_Baby_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Insecure Behaviour and Fuckery (feat. Nova)",
+      "artist": "Loraine James",
+      "has_synced": false,
+      "path": "select/06_Insecure_Behaviour_and_Fuckery_(feat._Nova)_Loraine_James.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Guardian Angel (Nova mix)",
+      "artist": "Novaspace",
+      "has_synced": false,
+      "path": "select/07_Guardian_Angel_(Nova_mix)_Novaspace.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nova´s Theme",
+      "artist": "Novaspace",
+      "has_synced": false,
+      "path": "select/08_Nova_́s_Theme_Novaspace.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sunlight (Bossa Nova Vibes)",
+      "artist": "DJ Sammy",
+      "has_synced": true,
+      "path": "select/09_Sunlight_(Bossa_Nova_Vibes)_DJ_Sammy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sunlight - Bossa Nova Vibes (Boss Nova Vibes)",
+      "artist": "DJ Sammy",
+      "has_synced": true,
+      "path": "select/10_Sunlight_-_Bossa_Nova_Vibes_(Boss_Nova_Vibes)_DJ_Sammy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "To France (Nova Mix) - Nova Mix",
+      "artist": "Novaspace",
+      "has_synced": true,
+      "path": "select/11_To_France_(Nova_Mix)_-_Nova_Mix_Novaspace.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "To France (Nova mix)",
+      "artist": "Novaspace",
+      "has_synced": true,
+      "path": "select/12_To_France_(Nova_mix)_Novaspace.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bossa Nova",
+      "artist": "Shivaree",
+      "has_synced": true,
+      "path": "select/13_Bossa_Nova_Shivaree.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "nova",
+      "artist": "YU",
+      "has_synced": false,
+      "path": "select/pl_01_nova_YU.txt"
+    }
+  ]
+}
